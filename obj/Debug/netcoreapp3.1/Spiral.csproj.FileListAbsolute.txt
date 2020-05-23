@@ -1,0 +1,13 @@
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.exe
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.deps.json
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.runtimeconfig.json
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.runtimeconfig.dev.json
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.dll
+C:\Projects\Practice\Trees\Spiral\bin\Debug\netcoreapp3.1\Spiral.pdb
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.csprojAssemblyReference.cache
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.AssemblyInfoInputs.cache
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.AssemblyInfo.cs
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.csproj.CoreCompileInputs.cache
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.dll
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.pdb
+C:\Projects\Practice\Trees\Spiral\obj\Debug\netcoreapp3.1\Spiral.genruntimeconfig.cache
